@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
+gem 'angular_rails_csrf'
+
+gem 'responders', '~> 2.0'
 
 gem 'angular-rails-templates'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
