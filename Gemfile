@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+gem 'devise'
+
 gem 'angular_rails_csrf'
 
 gem 'responders', '~> 2.0'
